@@ -16,11 +16,11 @@
   "defaults": {
     "stations": [
       {
-        "name": "Station One"
+        "name": "Station One",
         "id": "IDOFTHESTATION1"
       },
       {
-        "name": "Station Two"
+        "name": "Station Two",
         "id": "IDOFTHESTATION2"
       }
     ],
