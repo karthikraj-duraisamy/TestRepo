@@ -22,13 +22,19 @@
 [
 {
 	"id": "IDOFTHESTATION1",
+	"stationInfo": {
+	"id": "IDOFTHESTATION1",
 	"title": "Station One",
 	"storyType": "Short Stories"
+	}
 },
 {
 	"id": "IDOFTHESTATION2",
+	"stationInfo": {
+	"id": "IDOFTHESTATION2",
 	"title": "Station Two",
 	"storyType": "Serial Stories"
+	}
 }
 ],
 
@@ -69,14 +75,20 @@
 "episode": 
 [
 {
+	"id": "IDOFTHESTATION1",
+	"episodeInfo": {
 	"id": "IDOFTHEEPISODE1",
 	"title": "Episode One",
 	"description": "A tale about the weekend party that turns out to be the worst in life."
+	}
 },
 {
+	"id": "IDOFTHESTATION1",
+	"episodeInfo": {
 	"id": "IDOFTHEEPISODE2",
 	"title": "Episode Two",
 	"description": "All about a person gets into trouble of life time by talking to a stranger."
+	}
 }
 ],
 
