@@ -50,7 +50,10 @@
 	[
 		{
 		"id": "IDOFTHEEPISODE1",
-		"name": "Episode one"
+		"title": "Episode one",
+		"bannerImage": "https://homepages.cae.wisc.edu/~ece533/images/fruits.png", 
+		"duration": "20:45", 
+		"totalListen": 23432,
 		}
 	]
 },
@@ -60,11 +63,17 @@
 	[
 		{
 		"id": "IDOFTHEEPISODE1",
-		"name": "Episode one"
+		"title": "Episode one"
+		"bannerImage": "https://homepages.cae.wisc.edu/~ece533/images/fruits.png", 
+		"duration": "13:20", 
+		"totalListen": 13432
 		},
 		{
 		"id": "IDOFTHEEPISODE2",
-		"name": "Episode Two"
+		"title": "Episode Two"
+		"bannerImage": "https://homepages.cae.wisc.edu/~ece533/images/fruits.png", 
+		"duration": "10:45", 
+		"totalListen": 3432
 		}		
 	]
 }
