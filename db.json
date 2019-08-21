@@ -97,6 +97,9 @@
 
 
 "defaults": {
+"name": "User From Mars",
+"email": "marscorp@marscorp.mars",
+"id": "MRASUSERID1",
 "stations": 
 [
 	{
