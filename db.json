@@ -1,28 +1,26 @@
 {
-  "stations": [
-    {
-      "id": 120001,
-      "title": "Station One"
-    },
-    {
-      "id": 120002,
-      "title": "Station Two"
-    }
-  ],
-  "episodes": {
-    "id": 1,
-    "name": "Episode one"
-  },
-  "defaults": {
-    "stations": [
-      {
-        "name": "Station One",
-        "id": 120001
-      },
-      {
-        "name": "Station Two",
-        "id": 120002
-      }
-    ],
-  }
+	"stations": [{
+			"id": 120001,
+			"title": "Station One"
+		},
+		{
+			"id": 120002,
+			"title": "Station Two"
+		}
+	],
+	"episodes": {
+		"id": 1,
+		"name": "Episode one"
+	},
+	"defaults": {
+		"stations": [{
+				"name": "Station One",
+				"id": 120001
+			},
+			{
+				"name": "Station Two",
+				"id": 120002
+			}
+		]
+	}
 }
