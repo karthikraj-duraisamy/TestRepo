@@ -6,12 +6,12 @@
 		"title": "Station One",
 		"bannerImage": "https://homepages.cae.wisc.edu/~ece533/images/baboon.png",
 		"noOfStories": 15,
-		"totalListen": 1200003,
+		"totalListen": 1200003
 	},
 	{
 		"id": "IDOFTHESTATION2",
 		"title": "Station Two",
-		"bannerImage": "https://homepages.cae.wisc.edu/~ece533/images/fruits.png",
+		"bannerImage": "https://homepages.cae.wisc.edu/~ece533/images/fruits.png"
 	}
 ],
 
