@@ -1,0 +1,12 @@
+{
+  "stations": [
+    {
+      "id": 1,
+      "title": "Podcast One"
+    }
+  ],
+  "episodes": {
+    "id": 1,
+    "name": "Episode one"
+  }
+}
