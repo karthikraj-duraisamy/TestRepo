@@ -21,7 +21,7 @@
 
 
 "station": 
-	{
+	[	
 {
 	"id": "IDOFTHESTATION1",
 	"stationInfo": {
@@ -62,7 +62,7 @@
 	}
 	}
 }
-},
+],
 
 
 
