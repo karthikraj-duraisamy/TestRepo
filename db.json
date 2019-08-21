@@ -93,13 +93,24 @@
 ],
 
 
+"profile":
+{
+	"name": "User From Mars",
+	"email": "marscorp@marscorp.mars",
+	"id": "MARSUSERID1",
+	"socialProfile": {
+	"fb": "fb.com",
+	"twitter": "twitter.com",
+	"instagram": "instagram.com"
+	}
+},
 
 
 
 "defaults": {
 "name": "User From Mars",
 "email": "marscorp@marscorp.mars",
-"id": "MRASUSERID1",
+"id": "MARSUSERID1",
 "stations": 
 [
 	{
