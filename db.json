@@ -1,11 +1,11 @@
 {
   "stations": [
     {
-      "id": "IDOFTHESTATION1",
+      "id": 120001,
       "title": "Station One"
     },
     {
-      "id": "IDOFTHESTATION2",
+      "id": 120002,
       "title": "Station Two"
     }
   ],
@@ -17,11 +17,11 @@
     "stations": [
       {
         "name": "Station One",
-        "id": "IDOFTHESTATION1"
+        "id": 120001
       },
       {
         "name": "Station Two",
-        "id": "IDOFTHESTATION2"
+        "id": 120002
       }
     ],
   }
