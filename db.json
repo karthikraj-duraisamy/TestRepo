@@ -110,4 +110,44 @@
 ]
 }
 
+
+
+"notifications":
+[
+	{
+		"id": 1,
+		"title": "Notification Title #1",
+		"description": "Notification message description",
+		"date": 1566379057,
+		"readStatus": false,
+		"type": "ANNOUNCEMENT"
+	},
+	{
+		"id": 2,
+		"title": "Notification Title #2",
+		"description": "Notification message description",
+		"date": 1566379451,
+		"readStatus": true,
+		"type": "ANNOUNCEMENT"
+	},
+	{
+		"id": 3,
+		"title": "Notification Title #4",
+		"description": "Notification message description",
+		"date": 1566379494,
+		"readStatus": false,
+		"type": "NOTIFICATION"
+	},
+	{
+		"id": 4,
+		"title": "Notification Title #5",
+		"description": "Notification message description",
+		"date": 1566379700,
+		"readStatus": true,
+		"type": "NOTIFICATION"
+	}
+]
+
+
+
 }
