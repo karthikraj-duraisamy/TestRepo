@@ -12,6 +12,8 @@
 		"id": "IDOFTHESTATION2",
 		"title": "Station Two",
 		"bannerImage": "https://homepages.cae.wisc.edu/~ece533/images/fruits.png"
+		"noOfStories": 15,
+		"totalListen": 203003
 	}
 ],
 
@@ -30,7 +32,7 @@
 	"totalListen": 126537, 
 	"bannerImage": "https://homepages.cae.wisc.edu/~ece533/images/fruits.png", 
 	"language": "English", 
-	"contentType": "Serial", 
+	"contentType": "Short Stories", 
 	"genre": ["Horror", "Thriller", "Sci-Fi"], 
 	"explicitContent": true,
 	"socialMediaLinks":{
