@@ -17,6 +17,25 @@
 
 
 
+
+"station": 
+[
+{
+	"id": "IDOFTHESTATION1",
+	"title": "Station One",
+	"storyType": "Short Stories"
+},
+{
+	"id": "IDOFTHESTATION2",
+	"title": "Station Two",
+	"storyType": "Serial Stories"
+}
+],
+
+
+
+
+
 "episodes": 
 [
 {
@@ -44,6 +63,23 @@
 	]
 }
 ],
+
+
+
+"episode": 
+[
+{
+	"id": "IDOFTHEEPISODE1",
+	"title": "Episode One",
+	"description": "A tale about the weekend party that turns out to be the worst in life."
+},
+{
+	"id": "IDOFTHEEPISODE2",
+	"title": "Episode Two",
+	"description": "All about a person gets into trouble of life time by talking to a stranger."
+}
+],
+
 
 
 
