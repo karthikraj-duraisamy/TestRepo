@@ -1,12 +1,28 @@
 {
   "stations": [
     {
-      "id": 1,
-      "title": "Podcast One"
+      "id": "IDOFTHESTATION1",
+      "title": "Station One"
+    },
+    {
+      "id": "IDOFTHESTATION2",
+      "title": "Station Two"
     }
   ],
   "episodes": {
     "id": 1,
     "name": "Episode one"
+  },
+  "defaults": {
+    "stations": [
+      {
+        "name": "Station One"
+        "id": "IDOFTHESTATION1"
+      },
+      {
+        "name": "Station Two"
+        "id": "IDOFTHESTATION2"
+      }
+    ],
   }
 }
