@@ -5,7 +5,7 @@
 <description>Test description</description>
 <link>http://www.nowhere.com</link>
   <item>
-  <enclosure url="https://audioboom.com/posts/7260112.mp3?modified=1574987205&amp;source=rss&amp;stitched=1" length="0" type="audioo/mpeg" />
+  <enclosure url="https://audioboom.com/posts/7260112.mp3?modified=1574987205&amp;source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
 </item>
 <item>
   <enclosure url="https://audioboom.com/posts/7159317.mp3?modified=1575049526&amp;source=rss&amp;stitched=1" length="0" type="audioo/mpeg" />
